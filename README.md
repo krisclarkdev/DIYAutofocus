@@ -133,11 +133,4 @@ This project is licensed under **MIT License**.
 
 ---
 
-## 📞 Contact  
-For questions, reach out to:  
-📧 **YourEmail@example.com**  
-🌐 **GitHub: [Your GitHub Profile](https://github.com/YOUR_USERNAME)**  
-
----
-
 🔥 **Enjoy smooth autofocus control for your cine lenses!** 🎥🚀
